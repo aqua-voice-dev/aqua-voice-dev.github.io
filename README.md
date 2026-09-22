@@ -19,4 +19,5 @@ Buy it if you write prompts, code comments and long messages on a Mac and you ar
 
 *This is an independent review page and is not affiliated with, endorsed by, or operated by Aqua Voice; all trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
